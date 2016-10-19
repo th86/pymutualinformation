@@ -5,16 +5,15 @@ An implementation of [a B-Spline-based algorithm](https://bmcbioinformatics.biom
 
 ## Usage ##
 
-'''r
+```r
 import numpy as np
 import mutualinfo as m
 m.mi2D(np.linspace(0,1,10), np.linspace(0,1,10), 6, 3)
-'''
+```
 
 ## Prerequisites ##
 
-Python2.7
-NumPy
+Python2.7 and NumPy
 
 ## License ##
 
