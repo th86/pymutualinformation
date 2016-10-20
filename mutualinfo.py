@@ -51,7 +51,7 @@ def findWeights(x, knots, numBins, splineOrder): #only takes values within 0-1
   xmin = min(x);
 
   for i in range(0, len(x)): #In python it means [0,len(x))
-  x[i] = (x[i]-xmin)/(xmax-xmin);
+    x[i] = (x[i]-xmin)/(xmax-xmin);
 
   for i in range(0,numSamples):
     for j in range(0,numBins):
