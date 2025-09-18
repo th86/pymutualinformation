@@ -5,14 +5,14 @@ This is an implementation of [a B-Spline-based algorithm](https://bmcbioinformat
 
 ## Usage ##
 
-Have `mutualinfo` in the working folder.
+Have `mutualinfo` in the working folder, use the functions as follows.
 
 ```r
 import mutualinfo as m
 m.mi2D([1,2,7], [0,0,1], 6, 3)
 ```
 
-`x` and `y` must be numpy arrays in `float32`
+`x` and `y` must be numpy arrays in `float32`.
 
 ## Prerequisites ##
 
