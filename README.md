@@ -20,6 +20,9 @@ Python 2.7 and 3 above
 
 NumPy
 
+## Changelog ##
+2025.09.19 add the attractor algorithm as function `findAttractor`
+
 ## License ##
 
 This project is licensed under the MIT license.
