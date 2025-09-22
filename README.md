@@ -1,7 +1,7 @@
 Mutual Information between Continuous Variables in Python
 ====
 
-This is an implementation of [a B-Spline-based algorithm](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-118). There is a nice R version developed by [Weiyi Cheng](https://github.com/weiyi-bitw/cafr).
+This is an implementation of [the B-Spline-based algorithm](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-118). A nice R version was developed by [Weiyi Cheng](https://github.com/weiyi-bitw/cafr).
 
 ## Usage ##
 
